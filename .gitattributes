@@ -1,0 +1,11 @@
+# Проект собирается в Linux/WSL — нормализуем переводы строк в LF.
+# Это защищает shell-скрипты и исходники от CRLF независимо от
+# настроек core.autocrlf на машине пользователя.
+* text=auto eol=lf
+
+# Бинарные типы — не трогать
+*.img binary
+*.iso binary
+*.bin binary
+*.elf binary
+*.o   binary
