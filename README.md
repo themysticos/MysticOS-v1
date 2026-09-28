@@ -1,5 +1,11 @@
 # Mystic-OS
 
+> ⚠️ **Эта версия ОС заброшена и НЕ поддерживается.**
+> В будущем будут обновляться только крупные баги.
+> Актуальная разработка ведётся в **MysticOS 2**.
+>
+> *This version of the OS is abandoned and NOT supported — only major bugs will be updated in the future.*
+
 Небольшая 32-битная hobby-ОС для x86, написанная на C и NASM.
 Загружается собственным bootloader'ом, работает в защищённом режиме,
 имеет текстовую VGA-оболочку, драйверы ATA (PIO, LBA28), сканер PCI
@@ -58,5 +64,7 @@ make clean    # очистить артефакты
 
 ## Статус
 
-Ранняя alpha (v0.2.0). Файловая система работает в режиме чтения и
-записи FAT12/FAT16 и MSFS; собственная ФС работает.
+⚠️ **Заброшена / Abandoned.** Разработка остановлена на v0.2.0.
+Обновляются только крупные баги. Новая версия — **MysticOS 2**.
+
+*Abandoned at v0.2.0. Only major bug fixes. See MysticOS 2 for current work.*
