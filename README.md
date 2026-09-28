@@ -2,7 +2,7 @@
 
 > ⚠️ **Эта версия ОС заброшена и НЕ поддерживается.**
 > В будущем будут обновляться только крупные баги.
-> Актуальная разработка ведётся в **MysticOS 2**.
+> Актуальная разработка ведётся в **MysticOS 2**. (themysticos/MysticOS-v2)
 >
 > *This version of the OS is abandoned and NOT supported — only major bugs will be updated in the future.*
 
@@ -65,6 +65,6 @@ make clean    # очистить артефакты
 ## Статус
 
 ⚠️ **Заброшена / Abandoned.** Разработка остановлена на v0.2.0.
-Обновляются только крупные баги. Новая версия — **MysticOS 2**.
+Обновляются только крупные баги. Новая версия — **MysticOS 2**.(themysticos/MysticOS-v2)
 
-*Abandoned at v0.2.0. Only major bug fixes. See MysticOS 2 for current work.*
+*Abandoned at v0.2.0. Only major bug fixes. See MysticOS 2 for current work.(themysticos/MysticOS-v2)*
